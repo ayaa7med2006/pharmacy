@@ -48,7 +48,7 @@ const Products = () => {
             <Card product={p}> <div className="d-flex gap-2 mt-auto pt-2">
                 <button onClick={() => navigate(`/products/${p.id}`)}  className="btn btn-sm btn-success flex-grow-1 fw-bold">  Details</button>
                 <button  onClick={() => navigate(`/products/${p.id}/edit`)}  className="btn btn-sm btn-outline-warning fw-bold">  Edit  </button>
-                <button onClick={() => handleDelete(p.id)}  className="btn btn-sm btn-outline-danger fw-bold" >Delete
+                <button onClick={() => Delete(p.id)}  className="btn btn-sm btn-outline-danger fw-bold" >Delete
                 </button>
               </div>
             </Card>
