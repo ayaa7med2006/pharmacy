@@ -1,0 +1,197 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Panadol Extra",
+      "category": "Pain Relief",
+      "price": 45,
+      "description": "Effective relief for headaches, toothaches, and body aches.",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80"
+    },
+    {
+      "id": "8",
+      "title": "Omega 3 Fish Oil",
+      "category": "Vitamins & Supplements",
+      "price": 250,
+      "description": "Supports heart, brain, and joint health.",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=500&q=80"
+    },
+    {
+      "id": "9",
+      "title": "Centrum Adult",
+      "category": "Vitamins & Supplements",
+      "price": 300,
+      "description": "Complete daily multivitamin for men and women.",
+      "image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=500&q=80"
+    },
+    {
+      "id": "10",
+      "title": "Vitamin D3 5000 IU",
+      "category": "Vitamins & Supplements",
+      "price": 150,
+      "description": "Essential for bone health and immune support.",
+      "image": "https://images.pexels.com/photos/3683056/pexels-photo-3683056.jpeg?auto=compress&cs=tinysrgb&w=500"
+    },
+    {
+      "id": "11",
+      "title": "Magnesium Citrate",
+      "category": "Vitamins & Supplements",
+      "price": 180,
+      "description": "Helps relax muscles and supports nervous system.",
+      "image": "https://images.unsplash.com/photo-1626716493137-b67fe9501e76?w=500&q=80"
+    },
+    {
+      "id": "12",
+      "title": "Zinc 50mg",
+      "category": "Vitamins & Supplements",
+      "price": 110,
+      "description": "Antioxidant support and immune system booster.",
+      "image": "https://images.unsplash.com/photo-1576602976047-174e57a47881?w=500&q=80"
+    },
+    {
+      "id": "13",
+      "title": "Augmentin 1g",
+      "category": "Antibiotics",
+      "price": 95,
+      "description": "Broad-spectrum antibiotic used for bacterial infections.",
+      "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=500&q=80"
+    },
+    {
+      "id": "14",
+      "title": "Amoxil 500mg",
+      "category": "Antibiotics",
+      "price": 45,
+      "description": "Penicillin antibiotic for common infections.",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80"
+    },
+    {
+      "id": "15",
+      "title": "Zithromax 500mg",
+      "category": "Antibiotics",
+      "price": 85,
+      "description": "Used to treat respiratory and skin infections.",
+      "image": "https://images.unsplash.com/photo-1563213126-a4273aed2016?w=500&q=80"
+    },
+    {
+      "id": "16",
+      "title": "Cipro 500mg",
+      "category": "Antibiotics",
+      "price": 70,
+      "description": "Treats severe infections like urinary tract infections.",
+      "image": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=500&q=80"
+    },
+    {
+      "id": "17",
+      "title": "Keflex 500mg",
+      "category": "Antibiotics",
+      "price": 55,
+      "description": "Effective for bone, ear, and skin infections.",
+      "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=500&q=80"
+    },
+    {
+      "id": "18",
+      "title": "Doxycycline 100mg",
+      "category": "Antibiotics",
+      "price": 40,
+      "description": "Used for acne and various bacterial infections.",
+      "image": "https://th.bing.com/th/id/R.eb5430c5b775214ac4dd336c21f02b12?rik=tkoG2lhPf2kkPA&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fe%2fe8%2fDoxycycline_100mg_capsules.jpg&ehk=LRjPwMnH5varQVRDzDoO1DVRHsA1p9Hutrzb92ZwA9I%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "19",
+      "title": "CeraVe Moisturizing Cream",
+      "category": "Skincare",
+      "price": 350,
+      "description": "Rich hydrating moisturizing cream for dry skin.",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=500&q=80"
+    },
+    {
+      "id": "20",
+      "title": "La Roche-Posay Sunscreen",
+      "category": "Skincare",
+      "price": 450,
+      "description": "SPF 50+ broad spectrum UV protection.",
+      "image": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=500&q=80"
+    },
+    {
+      "id": "21",
+      "title": "Cetaphil Gentle Cleanser",
+      "category": "Skincare",
+      "price": 280,
+      "description": "Mild, non-irritating face wash for sensitive skin.",
+      "image": "https://images.pexels.com/photos/3762879/pexels-photo-3762879.jpeg?auto=compress&cs=tinysrgb&w=500"
+    },
+    {
+      "id": "22",
+      "title": "Eucerin Repair Lotion",
+      "category": "Skincare",
+      "price": 320,
+      "description": "Advanced repair lotion for extremely dry skin.",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=500&q=80"
+    },
+    {
+      "id": "23",
+      "title": "Vichy Minéral 89",
+      "category": "Skincare",
+      "price": 550,
+      "description": "Hyaluronic acid face serum for daily hydration.",
+      "image": "https://images.unsplash.com/photo-1617897903246-719242758050?w=500&q=80"
+    },
+    {
+      "id": "24",
+      "title": "Neutrogena Hydro Boost",
+      "category": "Skincare",
+      "price": 260,
+      "description": "Water gel moisturizer with hyaluronic acid.",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=500&q=80"
+    },
+    {
+      "id": "25",
+      "title": "Omron BP Monitor",
+      "category": "Medical Devices",
+      "price": 1200,
+      "description": "Digital blood pressure machine, accurate and easy to use.",
+      "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=500&q=80"
+    },
+    {
+      "id": "26",
+      "title": "Accu-Chek Glucose Meter",
+      "category": "Medical Devices",
+      "price": 850,
+      "description": "Fast and accurate blood sugar testing kit.",
+      "image": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=500&q=80"
+    },
+    {
+      "id": "28",
+      "title": "Pulse Oximeter",
+      "category": "Medical Devices",
+      "price": 300,
+      "description": "Fingertip oxygen saturation and heart rate monitor.",
+      "image": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=500&q=80"
+    },
+    {
+      "id": "29",
+      "title": "Nebulizer Machine",
+      "category": "Medical Devices",
+      "price": 750,
+      "description": "Compressor nebulizer for respiratory therapy.",
+      "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=500&q=80"
+    },
+    {
+      "id": "30",
+      "title": "First Aid Kit",
+      "category": "Medical Devices",
+      "price": 400,
+      "description": "Comprehensive emergency medical kit for home or travel.",
+      "image": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=500&q=80"
+    },
+    {
+      "title": "ajnds",
+      "price": "23",
+      "category": "n kkd",
+      "image": "smkd.",
+      "description": "salkkd",
+      "id": "H7HTaUZeek0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
