@@ -2,14 +2,19 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { toast } from 'react-toastify';
- const Profile = () => {
+
+const Profile = () => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
-  const navigate = useNavigate()
+  const navigate = useNavigate();
+
   useEffect(() => {
-    const token = localStorage.getItem('token')
+    const token = localStorage.getItem('token');
+    if (!token) {
       navigate('/auth/login');
       return;
+    }
+
     axios.get('https://dummyjson.com/auth/me', {headers: { Authorization: `Bearer ${token}`, },
       })
       .then((res) => {setUser(res.data);
@@ -22,6 +27,7 @@ import { toast } from 'react-toastify';
         setLoading(false);
       });
   }, [navigate]);
+
   return (
     <div className="container py-5">
       <div className="row justify-content-center">
@@ -43,4 +49,5 @@ import { toast } from 'react-toastify';
     </div>
   );
 }
-export default Profile
+
+export default Profile;
